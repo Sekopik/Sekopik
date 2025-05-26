@@ -9,7 +9,6 @@ Este repositorio forma parte de mi viaje como ingeniero en robótica y automatiz
 
 - **Ingeniero en Robótica y Automatización Industrial**  
 - Apasionado por la IA generativa y su abanico infinito de posibilidades aplicativas.  
-- Actualmente me estoy formando en IA y desarrollo proyectos en Visual Studio Code para crear soluciones reales y útiles.  
 - Este repositorio es mi carta de presentación al mundo, donde demuestro mis habilidades, visión y compromiso con la innovación.
 
 ---
