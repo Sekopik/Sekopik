@@ -1,4 +1,4 @@
-# Agente RAG + MCP para Integración de IA y Servicios 🚀
+# Agente RAG + MCP Integración de IA y Servicios para tu negocio🚀
 
 ¡Bienvenido/a!  
 Este repositorio forma parte de mi viaje como ingeniero en robótica y automatización industrial, apasionado por la inteligencia artificial generativa y su potencial ilimitado. Aquí encontrarás un agente que combina Recuperación Aumentada por Generación (RAG) y Multiple Chain of Prompts (MCP), capaz de comunicarse con diversas APIs de modelos de lenguaje (LLM) y servicios externos.
